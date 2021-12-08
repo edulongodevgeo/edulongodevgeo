@@ -1,16 +1,15 @@
 ### Hi there 👋
 
-<!--
-**edulongodevgeo/edulongodevgeo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Hi there 👋, my name is Edu Longo!
+#### Eu sou atualmente um Padawan Front end Developer.
+Mestre e Doutorando em Planejamento Territorial (UDESC), com ênfase na área de tecnologias da Informação como alternativas e soluções.
+Graduando em Análise e Desenvolvimento de Sistemas (USJ).
 
-Here are some ideas to get you started:
+Skills: VUE JS / REACT / JS / HTML / CSS
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🌱 I’m currently learning Vue.js and React 
+
+
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/https://github.com/edulongodevgeo/edulongodevgeo)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/eduardo-longo-devgeo//)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codepen.svg' alt='codepen' height='40'>](https://codepen.io/https://codepen.io/edulongodevgeo)  
+
+![Profile views](https://gpvc.arturio.dev/https://github.com/edulongodevgeo/edulongodevgeo)  
