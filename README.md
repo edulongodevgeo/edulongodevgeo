@@ -1,5 +1,5 @@
 ### Hi there 👋, my name is Edu Longo!
-#### Eu sou atualmente um Padawan Front end Developer.
+#### Eu sou atualmente um Padawan Front-end Developer.
 Mestre e Doutorando em Planejamento Territorial (UDESC), com ênfase na área de tecnologias da Informação como alternativas e soluções.
 Graduando em Análise e Desenvolvimento de Sistemas (USJ).
 
