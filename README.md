@@ -1,9 +1,11 @@
 ### Hi there 👋, my name is Edu Longo!
-#### Eu sou atualmente um Padawan Front-end Developer.
+#### Eu sou um Front-end Developer.
 Mestre e Doutorando em Planejamento Territorial (UDESC), com ênfase na área de tecnologias da Informação como alternativas e soluções.
 Graduando em Análise e Desenvolvimento de Sistemas (USJ).
 
-Skills: VUE JS / REACT / JS / HTML / CSS
+Skills: HTML / CSS / JAVASCRIPT / VUE JS / REACT 
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=edulongodevgeo&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 - 🌱 I’m currently learning Vue.js and React 
 
